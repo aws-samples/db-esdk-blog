@@ -1,11 +1,7 @@
-## My Project
+# DynamoDbSearchableEncryptionBlog
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+This is sample code to support the DynamoDb Encryption blog.
+(Blog Link to be added shortly)
 
 ## Security
 
