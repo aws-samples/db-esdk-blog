@@ -1,7 +1,7 @@
 # DynamoDbSearchableEncryptionBlog
 
-This is sample code to support the DynamoDb Encryption blog.
-(Blog Link to be added shortly)
+This is sample code to support the example mentioned in the [DynamoDb Encryption blog](https://aws.amazon.com/blogs/security/how-to-use-aws-database-encryption-sdk-for-client-side-encryption-and-perform-searches-on-encrypted-attributes-in-dynamodb-tables/)
+
 
 ## Security
 
